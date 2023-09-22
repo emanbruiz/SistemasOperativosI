@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Administrador de procesos/1.0.0": {
+        "runtime": {
+          "Administrador de procesos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Administrador de procesos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\DELL-PC\OneDrive\Escritorio\Universidad\Semestre 6\Sistemas Operativos\Unidad 2\Proyectos\Administrador de procesos\bin\Debug\netcoreapp3.1\Administrador de procesos.exe
+C:\Users\DELL-PC\OneDrive\Escritorio\Universidad\Semestre 6\Sistemas Operativos\Unidad 2\Proyectos\Administrador de procesos\bin\Debug\netcoreapp3.1\Administrador de procesos.deps.json
+C:\Users\DELL-PC\OneDrive\Escritorio\Universidad\Semestre 6\Sistemas Operativos\Unidad 2\Proyectos\Administrador de procesos\bin\Debug\netcoreapp3.1\Administrador de procesos.runtimeconfig.json
+C:\Users\DELL-PC\OneDrive\Escritorio\Universidad\Semestre 6\Sistemas Operativos\Unidad 2\Proyectos\Administrador de procesos\bin\Debug\netcoreapp3.1\Administrador de procesos.runtimeconfig.dev.json
+C:\Users\DELL-PC\OneDrive\Escritorio\Universidad\Semestre 6\Sistemas Operativos\Unidad 2\Proyectos\Administrador de procesos\bin\Debug\netcoreapp3.1\Administrador de procesos.dll
+C:\Users\DELL-PC\OneDrive\Escritorio\Universidad\Semestre 6\Sistemas Operativos\Unidad 2\Proyectos\Administrador de procesos\bin\Debug\netcoreapp3.1\Administrador de procesos.pdb
+C:\Users\DELL-PC\OneDrive\Escritorio\Universidad\Semestre 6\Sistemas Operativos\Unidad 2\Proyectos\Administrador de procesos\obj\Debug\netcoreapp3.1\Administrador de procesos.csprojAssemblyReference.cache
+C:\Users\DELL-PC\OneDrive\Escritorio\Universidad\Semestre 6\Sistemas Operativos\Unidad 2\Proyectos\Administrador de procesos\obj\Debug\netcoreapp3.1\Administrador de procesos.AssemblyInfoInputs.cache
+C:\Users\DELL-PC\OneDrive\Escritorio\Universidad\Semestre 6\Sistemas Operativos\Unidad 2\Proyectos\Administrador de procesos\obj\Debug\netcoreapp3.1\Administrador de procesos.AssemblyInfo.cs
+C:\Users\DELL-PC\OneDrive\Escritorio\Universidad\Semestre 6\Sistemas Operativos\Unidad 2\Proyectos\Administrador de procesos\obj\Debug\netcoreapp3.1\Administrador de procesos.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\OneDrive\Escritorio\Universidad\Semestre 6\Sistemas Operativos\Unidad 2\Proyectos\Administrador de procesos\obj\Debug\netcoreapp3.1\Administrador de procesos.dll
+C:\Users\DELL-PC\OneDrive\Escritorio\Universidad\Semestre 6\Sistemas Operativos\Unidad 2\Proyectos\Administrador de procesos\obj\Debug\netcoreapp3.1\Administrador de procesos.pdb
+C:\Users\DELL-PC\OneDrive\Escritorio\Universidad\Semestre 6\Sistemas Operativos\Unidad 2\Proyectos\Administrador de procesos\obj\Debug\netcoreapp3.1\Administrador de procesos.genruntimeconfig.cache
